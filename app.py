@@ -1,6 +1,3 @@
-from memory_profiler import profile
-
-
 import gc
 from streamlit import title, pyplot, image, button, header, file_uploader
 from PIL import Image , ImageOps
